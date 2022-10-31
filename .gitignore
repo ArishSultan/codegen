@@ -8,3 +8,4 @@ coverage
 !/testdata/*/actual/package.*
 !/testdata/*/actual/requirements.txt
 /testdata/java/data/
+config.bat
